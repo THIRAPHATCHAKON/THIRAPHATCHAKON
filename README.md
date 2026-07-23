@@ -48,8 +48,10 @@
 
 <div data-importer="stats" align="center">
   <img src="https://ghstats.dev/api/card?username=THIRAPHATCHAKON&theme=tokyonight&border_radius=4" alt="GitHub Stats Card" />
-  <img src="https://raw.githubusercontent.com/THIRAPHATCHAKON/THIRAPHATCHAKON/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+###
+
+<img src="https://raw.githubusercontent.com/THIRAPHATCHAKON/THIRAPHATCHAKON/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
 
