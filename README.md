@@ -46,9 +46,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://ghstats.dev/api/card?username=THIRAPHATCHAKON&theme=tokyonight&border_radius=4" alt="GitHub Stats Card" />
-</div>
+<img src="https://ghstats.dev/api/card?username=THIRAPHATCHAKON&theme=tokyonight&hide_border=true&hide_title=true&border_radius=0.5&hide=followers%2Cavg%2Cactive_day%2Chours" alt="GitHub Stats Card" />
 
 ###
 
